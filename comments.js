@@ -1,4 +1,7 @@
-// This is just placeholder .js code
-function commentCode(){
-    return "You got some Opinions,unh?";
-}
+// This is an inline comment
+
+/*
+This is a
+multi-line
+comment
+*/
